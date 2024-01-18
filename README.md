@@ -1,8 +1,7 @@
-This is a fork by barnacl437 to attempt to maintain Aditya's repo and also for experiments.
-I can update infos in this repo in the future.
+*This is a branch for apt install instead of pkg install due to PRoot restrictions.* 
 
 
-**`LAST Updated`** : `August 2023`
+**`LAST Updated`** : `January 2024`
 
 > Unmaintained : Due to Termux not working properly on new Android versions and also Termux not getting maintained properly.
 
