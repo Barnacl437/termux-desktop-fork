@@ -1,5 +1,3 @@
-*This is a branch for apt install instead of pkg install due to PRoot restrictions.* 
-
 
 **`LAST Updated`** : `January 2024`
 
@@ -115,6 +113,9 @@ New 'localhost:1 ()' desktop is localhost:1
 Starting applications specified in /data/data/com.termux/files/home/.vnc/xstartup
 Log file is /data/data/com.termux/files/home/.vnc/localhost:1.log
 ```
+
+**Note: if you are using PRoot distros, try running ```./setup-apt.sh``` instead since pkg doesn't run in PRoot
+mode.**
 
 ### Uninstallation
 
